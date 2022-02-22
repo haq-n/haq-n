@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Haq N.
   
 ## 🚀 About Me
-I'm Information Security Researcher 📊, Certified Ethical Hacker and Red Teamer 👩🏽‍💻! I also enjoy mentoring people. When offline, I drive 🎨 and explore 📚.
+I'm Information Security Researcher 📊, Certified Ethical Hacker and Red Teamer 👩🏽‍💻! I also enjoy mentoring people. When offline, I drive 🚗 and explore 🌇.
 
   
 ## 🛠 My Skills include...
